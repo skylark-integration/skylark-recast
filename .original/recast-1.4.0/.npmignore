@@ -1,0 +1,9 @@
+/node_modules
+/test
+/types
+yarn.lock
+example
+
+.*
+*.ts
+!*.d.ts
